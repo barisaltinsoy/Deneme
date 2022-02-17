@@ -1,0 +1,37 @@
+.italy{
+    background: linear-gradient(90deg, rgba(251,0,0,1) 16%, rgba(252,252,252,1) 22%, rgba(22,119,17,1) 29%);
+    color: white;
+    border-radius:5px;
+    }
+
+.container{
+    background: grey;
+    padding: 10px;
+    border-radius:5px;
+}
+
+.left-bar{
+    color:blue;
+    width:300px;
+    height: 375px;
+    float:left;
+    background: pink;
+    margin: 0 5px 5px 5px;
+    border-radius:5px
+}
+
+.malzeme{
+    margin-left: 50px;
+}
+.picture{
+    float: left;
+}
+
+.padding{
+    margin-left:10px;
+    padding-left:320px;
+}
+
+.red{
+    background: red;
+}
